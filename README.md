@@ -1,56 +1,70 @@
+# Hi 👋 I'm Nagaraju Gorantla
 
-# Hi there 👋, I'm Nagaraju Gorantla
+### Data Analyst | AI & Data Science Graduate | India 🇮🇳
 
-𝗔 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘀𝘁 𝗳𝗿𝗼𝗺 𝗜𝗻𝗱𝗶𝗮
+I work at the intersection of **data, logic, and decision-making**.  
+My focus is simple: turning messy datasets into **clear, actionable insights**.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
+🌱 Currently sharpening my skills in **Data Analytics & Business Intelligence**  
+📊 Strong believer that *data without decisions is just noise*
 
-🌱 I’m currently learning **Data Analytics & Business Intelligence!**
+---
 
-✅ 𝗞𝗲𝘆 𝗦𝗸𝗶𝗹𝗹𝘀 
+## 🧠 What I Bring to the Table
 
-✦ 𝐏𝐨𝐰𝐞𝐫-𝐁𝐈 
-✦ 𝐒𝐐𝐋 
-✦ 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐄𝐱𝐜𝐞𝐥 
-✦ 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐚𝐥 𝐓𝐡𝐢𝐧𝐤𝐢𝐧𝐠 
-✦ 𝐩𝐫𝐨𝐛𝐥𝐞𝐦-𝐬𝐨𝐥𝐯𝐢𝐧𝐠 
-✦ 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐬𝐤𝐢𝐥𝐥𝐬 
-✦ 𝐏𝐫𝐞𝐬𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 𝐒𝐤𝐢𝐥𝐥𝐬
+### Core Skills
+- **Power BI** – Interactive dashboards & data storytelling  
+- **SQL** – Data extraction, joins, aggregations  
+- **Microsoft Excel** – Analysis, formulas, reporting  
+- **Python (Basics)** – Data handling & analysis  
+- **Analytical Thinking** – Breaking problems before solving them  
+- **Communication & Presentation** – Insights that make sense to humans  
 
-⚡ Fun fact: I don’t just study Artificial Intelligence & Data Science — I operate where data, logic, and decisions collide.
+---
 
-I turn messy data into sharp insights,
-experiments into clear direction,
-and curiosity into real-world impact.
+## ⚡ Fun Fact
 
-This isn’t the destination.
-It’s the launch phase. 🚀🔥
+I don’t just study **Artificial Intelligence & Data Science** —  
+I operate where **data, logic, and decisions collide**.
 
-- 💬 Ask me about **Data Analytics & Buisness Analytics**
+I turn:
+- messy data → **sharp insights**  
+- experiments → **clear direction**  
+- curiosity → **real-world impact**
 
-- 📫 How to reach me: **nagarajugorantla972@gmail.com**
+This isn’t the destination.  
+It’s the **launch phase** 🚀🔥
 
-## Languages and Tools:
+---
+
+## 💬 Ask Me About
+- Data Analytics  
+- Business Analytics  
+- Dashboards & Reporting  
+- SQL & Power BI fundamentals  
+
+---
+
+## 📫 Reach Me
+📧 **nagarajugorantla972@gmail.com**
+
+---
+
+## 🛠 Languages & Tools
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+---
 
+## 🔗 Let’s Connect
 
-## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagaraju-gorantla-57ab0a245)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nagaraju-gorantla-57ab0a245) - www.linkedin.com/in/nagaraju-gorantla-57ab0a245
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nagrajugorant13)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NagarajuGorantla-DA)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nagrajugorant13) -https://www.hackerrank.com/profile/nagarajugorantl3
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://purvaphalak.github.io/)- https://github.com/NagarajuGorantla-DA
-
-
-
-
-
--->
+---
